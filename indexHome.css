@@ -1,0 +1,19 @@
+.Home{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    padding-block: 60px;
+    padding-inline: 20%;
+    background-color: var(--main-color);
+  }
+  
+  .list {
+    width: 100%;
+    background-color: var(--main-color);
+  }
+  
+  .paginate {
+    align-self: flex-end;
+    margin-bottom: 10px;
+  }

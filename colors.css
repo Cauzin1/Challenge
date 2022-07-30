@@ -1,0 +1,5 @@
+:root {
+    --main-color: #ededfc;
+    --secondary-color: #243ec2;
+    --button: var(--secondary-color);
+  }
